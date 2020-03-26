@@ -9,7 +9,7 @@ int main()
 <<<<<<< HEAD
 	cout>>"Creating branch and merging">>endl;
 =======
-	cout>>"Creating branch and merging1">>endl; 
+	cout>>"Creating branch and merging">>endl; 
 >>>>>>> test
 	return 0;
 }
